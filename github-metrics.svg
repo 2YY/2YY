@@ -56,7 +56,7 @@
 -r--  <b>    7</b>  watchers
 dr-x  <b>    0</b>  packages
 dr-x         LICENSE
--r--         └── MIT
+-r--         └── GPL-3.0
 </div>
 <div class="stdin"><span class="ps1-path">2yy@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>TYPESCRIPT  </b> [########            ] 37.14%
 <b>C#          </b> [#######             ] 33.94%
