@@ -38,7 +38,7 @@
   followed by <b>4</b> users
 </div>
 <div class="stdin"><span class="ps1-path">2yy@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  396</b> commits
+  <b>  397</b> commits
   <b>    0</b> pull requests reviewed
   <b>    6</b> pull requests opened
   <b>   18</b> issues opened
@@ -58,10 +58,10 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── GPL-3.0
 </div>
-<div class="stdin"><span class="ps1-path">2yy@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>TYPESCRIPT  </b> [########            ] 35.21%
-<b>C#          </b> [#######             ] 32.18%
-<b>LUA         </b> [#####               ] 21.99%
-<b>SHELL       </b> [##                  ] 7.00 %
+<div class="stdin"><span class="ps1-path">2yy@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>TYPESCRIPT  </b> [########            ] 35.20%
+<b>C#          </b> [#######             ] 32.17%
+<b>LUA         </b> [#####               ] 21.98%
+<b>SHELL       </b> [##                  ] 7.03 %
 <b>JAVASCRIPT  </b> [#                   ] 2.16 %
 <b>SCSS        </b> [#                   ] 0.68 %
 <b>HTML        </b> [#                   ] 0.55 %
