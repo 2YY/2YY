@@ -38,11 +38,11 @@
   followed by <b>4</b> users
 </div>
 <div class="stdin"><span class="ps1-path">2yy@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  431</b> commits
+  <b>  449</b> commits
   <b>    0</b> pull requests reviewed
   <b>    8</b> pull requests opened
   <b>   19</b> issues opened
-  <b>   31</b> issue comments
+  <b>   32</b> issue comments
 
 <b>Tracked activity</b>
   <b>    7</b> users followed
@@ -58,14 +58,14 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── MIT
 </div>
-<div class="stdin"><span class="ps1-path">2yy@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>TYPESCRIPT  </b> [#######             ] 33.96%
-<b>C#          </b> [#######             ] 31.03%
-<b>LUA         </b> [#####               ] 24.28%
-<b>SHELL       </b> [##                  ] 7.23 %
-<b>JAVASCRIPT  </b> [#                   ] 2.09 %
-<b>SCSS        </b> [#                   ] 0.66 %
-<b>HTML        </b> [#                   ] 0.53 %
-<b>POWERSHELL  </b> [#                   ] 0.22 %
+<div class="stdin"><span class="ps1-path">2yy@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>TYPESCRIPT  </b> [#######             ] 32.78%
+<b>C#          </b> [######              ] 29.95%
+<b>LUA         </b> [######              ] 26.91%
+<b>SHELL       </b> [##                  ] 6.98 %
+<b>JAVASCRIPT  </b> [#                   ] 2.01 %
+<b>SCSS        </b> [#                   ] 0.63 %
+<b>HTML        </b> [#                   ] 0.51 %
+<b>POWERSHELL  </b> [#                   ] 0.21 %
 </div>
 
 </pre>
