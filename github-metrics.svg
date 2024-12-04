@@ -38,7 +38,7 @@
   followed by <b>6</b> users
 </div>
 <div class="stdin"><span class="ps1-path">2yy@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  320</b> commits
+  <b>  326</b> commits
   <b>    0</b> pull requests reviewed
   <b>   17</b> pull requests opened
   <b>   13</b> issues opened
@@ -50,7 +50,7 @@
   <b>    5</b> repositories starred
   <b>    5</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">2yy@metrics</span>:<span class="ps1-location">~</span>$ ls -lh github/repositories</div><div class="stdout">Total 6 repositories - 11.3 MB
+<div class="stdin"><span class="ps1-path">2yy@metrics</span>:<span class="ps1-location">~</span>$ ls -lh github/repositories</div><div class="stdout">Total 6 repositories - 11.4 MB
 -r--  <b>   10</b>  stargazers
 -r--  <b>    1</b>  fork
 -r--  <b>    5</b>  watchers
@@ -58,10 +58,10 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── MIT
 </div>
-<div class="stdin"><span class="ps1-path">2yy@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>C#          </b> [##########          ] 48.48%
-<b>LUA         </b> [#########           ] 43.55%
-<b>SHELL       </b> [##                  ] 5.77 %
-<b>POWERSHELL  </b> [#                   ] 2.20 %
+<div class="stdin"><span class="ps1-path">2yy@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>C#          </b> [##########          ] 48.00%
+<b>LUA         </b> [#########           ] 43.12%
+<b>SHELL       </b> [##                  ] 6.71 %
+<b>POWERSHELL  </b> [#                   ] 2.18 %
 </div>
 
 </pre>
