@@ -38,7 +38,7 @@
   followed by <b>6</b> users
 </div>
 <div class="stdin"><span class="ps1-path">2yy@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  333</b> commits
+  <b>  340</b> commits
   <b>    0</b> pull requests reviewed
   <b>   17</b> pull requests opened
   <b>   13</b> issues opened
@@ -58,10 +58,10 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── MIT
 </div>
-<div class="stdin"><span class="ps1-path">2yy@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>C#          </b> [##########          ] 48.00%
-<b>LUA         </b> [#########           ] 43.12%
-<b>SHELL       </b> [##                  ] 6.71 %
-<b>POWERSHELL  </b> [#                   ] 2.18 %
+<div class="stdin"><span class="ps1-path">2yy@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>C#          </b> [##########          ] 47.92%
+<b>LUA         </b> [#########           ] 43.05%
+<b>SHELL       </b> [##                  ] 6.86 %
+<b>POWERSHELL  </b> [#                   ] 2.17 %
 </div>
 
 </pre>
