@@ -40,7 +40,7 @@
 <div class="stdin"><span class="ps1-path">2yy@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
   <b>  395</b> commits
   <b>    0</b> pull requests reviewed
-  <b>   18</b> pull requests opened
+  <b>   17</b> pull requests opened
   <b>   25</b> issues opened
   <b>   39</b> issue comments
 
