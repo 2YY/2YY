@@ -38,7 +38,7 @@
   followed by <b>6</b> users
 </div>
 <div class="stdin"><span class="ps1-path">2yy@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  262</b> commits
+  <b>  261</b> commits
   <b>    0</b> pull requests reviewed
   <b>    1</b> pull request opened
   <b>    0</b> issues opened
@@ -48,12 +48,12 @@
   <b>    8</b> users followed
   <b>    0</b> repositories sponsored
   <b>   10</b> repositories starred
-  <b>    5</b> repositories watched
+  <b>    4</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">2yy@metrics</span>:<span class="ps1-location">~</span>$ ls -lh github/repositories</div><div class="stdout">Total 6 repositories - 12.8 MB
--r--  <b>   10</b>  stargazers
+<div class="stdin"><span class="ps1-path">2yy@metrics</span>:<span class="ps1-location">~</span>$ ls -lh github/repositories</div><div class="stdout">Total 5 repositories - 12.8 MB
+-r--  <b>    9</b>  stargazers
 -r--  <b>    3</b>  forks
--r--  <b>    5</b>  watchers
+-r--  <b>    4</b>  watchers
 dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── MIT
