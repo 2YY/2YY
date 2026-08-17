@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="572" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="680" class="">
   
 
   <defs><style>@font-face {
@@ -38,10 +38,10 @@
   followed by <b>7</b> users
 </div>
 <div class="stdin"><span class="ps1-path">2yy@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  NaN</b> commits
+  <b>  286</b> commits
   <b>    0</b> pull requests reviewed
   <b>    2</b> pull requests opened
-  <b>  NaN</b> issues opened
+  <b>    0</b> issues opened
   <b>   34</b> issue comments
 
 <b>Tracked activity</b>
@@ -50,13 +50,19 @@
   <b>   15</b> repositories starred
   <b>    4</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">2yy@metrics</span>:<span class="ps1-location">~</span>$ ls -lh github/repositories</div><div class="stdout">Total NaN repositories - 11.7 MB
--r--  <b>    0</b>  stargazers
--r--  <b>    0</b>  forks
--r--  <b>    0</b>  watchers
-dr-x  <b>  NaN</b>  packages
+<div class="stdin"><span class="ps1-path">2yy@metrics</span>:<span class="ps1-location">~</span>$ ls -lh github/repositories</div><div class="stdout">Total 7 repositories - 11.7 MB
+-r--  <b>    9</b>  stargazers
+-r--  <b>    3</b>  forks
+-r--  <b>    4</b>  watchers
+dr-x  <b>    0</b>  packages
+dr-x         LICENSE
+-r--         └── MIT
 </div>
-<div class="stdin"><span class="ps1-path">2yy@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"></div>
+<div class="stdin"><span class="ps1-path">2yy@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>PYTHON      </b> [#########           ] 41.19%
+<b>MAX         </b> [######              ] 29.72%
+<b>LUA         </b> [####                ] 15.50%
+<b>C#          </b> [###                 ] 13.59%
+</div>
 
 </pre>
 
